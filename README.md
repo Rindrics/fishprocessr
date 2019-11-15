@@ -1,5 +1,7 @@
 # fishprocessr
 
+  [![Travis build status](https://travis-ci.org/akikirinrin/fishprocessr.svg?branch=master)](https://travis-ci.org/akikirinrin/fishprocessr)
+
 # 機能
 stockdbrの出力（データフレーム）を加工する関数群
 
